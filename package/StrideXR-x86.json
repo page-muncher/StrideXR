@@ -1,0 +1,11 @@
+{
+    "file_format_version": "1.0.0",
+    "api_layer": {
+        "name": "XR_APILAYER_STRIDEXR_locomotion_x86",
+        "library_path": "./StrideXR-x86.dll",
+        "api_version": "1.0",
+        "implementation_version": "15",
+        "description": "StrideXR locomotion and audiobook subtitles (32-bit)",
+        "disable_environment": "DISABLE_STRIDEXR_X86"
+    }
+}
